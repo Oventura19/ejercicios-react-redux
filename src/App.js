@@ -8,8 +8,8 @@ function App() {
       <img src = { logo } className = "App-logo" alt = "logo"/>
         <p> Edit < code > src / App.js </code> and save to reload. </p>
         <a className = "App-link" href = "https://reactjs.org" target = "_blank" rel = "noopener noreferrer">
-        <h1>Mi primera aplicación</h1>
-        <p>Esta es mi primera aplicación en React, está padrísimo!</p>
+        <h1>"Mi primera aplicación"</h1>
+        <p>"Esta es mi primera aplicación en React, está padrísimo!"</p>
         </a>  
     </header> 
   </div>
